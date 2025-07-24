@@ -11,7 +11,7 @@ kyria split kb from https://splitkb.com/products/kyria-rev3
 5. 2 OLED screens (1 for each KB side) - shows layers/wpm/ect
 6. Smaller pieces/screws/tinted glass/case + puck (puck for future tenting)/ect
 
-## Benefits of Split KB - Why it might be worth changing layouts - WASD is inefficient in comparison to latest layout research
+## Benefits of Split KB - Why it might be worth changing layouts? WASD is inefficient in comparison to latest layout research
 
 | Acronym           | Meaning                           | Impact on Typing                                                                                                                            | Impact Type | Example                                                     |
 | ----------------- | --------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | ----------------------------------------------------------- |
