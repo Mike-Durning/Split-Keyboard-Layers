@@ -10,7 +10,7 @@
 2. 48 Gateron Ink V2 Black Silent Switches + PBT Caps & 2 tactile encoder switches + N/A Encoder knob (Yet to buy encoder knob... still deciding)
 3. Learning a whole new KB Layout - [Cool KB Layout statistics](https://cyanophage.github.io/#handsdown-promethium)
 4. Programmable Backlight & Underglow All hand soldered
-5. 2 OLED screens (1 128x64 pixels for each KB side) - shows layers/wpm/ect
+5. 2 OLED screens (128x64 pixels for each KB side) - shows layers/wpm/ect
 6. Smaller pieces/screws/tinted glass/case + puck (puck for future tenting)/ect
 
 ## Benefits of Split KB - Why it might be worth changing layouts? WASD is inefficient in comparison to latest layout research
