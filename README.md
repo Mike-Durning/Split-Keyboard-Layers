@@ -1,7 +1,9 @@
 # Split-Keyboard-Layers
-kyria split kb from https://splitkb.com/products/kyria-rev3
+[Kyria - Kit with PCB](https://splitkb.com/products/kyria-rev3)
 
-[Kyria? What is this?](https://docs.splitkb.com/product-guides/aurora-series/build-guide/what-is-what)
+[What is this and what do you mean you have to build it?](https://docs.splitkb.com/product-guides/aurora-series/build-guide/what-is-what)
+
+
 
 ## Putting it Together
 1. Soldering for the first time
